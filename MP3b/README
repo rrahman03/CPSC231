@@ -1,0 +1,19 @@
+/*
+1: 
+(a) Raneem Rahman 
+(b) 2391103
+(c) rrahman@chapman.edu
+(d) MP3b: ERS
+
+2. Cardsdoc: the purpose of this assignment is to simulate a card game. It contains three classes. 
+a card class that represents a single card.
+a deck class that represents a deck of 52 cards.
+a dealer that represent a dealer with a deck that they can deal from.
+a game class that has the rules of the game.
+and a player class.
+
+3. no known compile or runtime errors
+
+4. no in code references, I did look at my Pizza.java assignment for better help understanding constructors
+
+*/
