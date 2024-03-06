@@ -1,0 +1,21 @@
+/*
+1: 
+(a) Raneem Rahman & Brooke England
+(b) 2391103
+(c) rrahman@chapman.edu
+(d) MP4: Build What You Want
+
+2. Housingdoc: the purpose of this assignment is to simulate a housing system game. It contains 7 classes. 
+a sandhu class that represents sandhu residence hall.
+a pralle class that represents pralle residence hall.
+a panther village class that represents panther village residence hall.
+a grand class that represents grand residence hall.
+a henley class that represents henley residence hall.
+a chapman housing class that serves as a parent for all types of Chapman housing
+& a driver class
+
+3. no known compile or runtime errors
+
+4. no in code references. Brooke and I did work together on this assignment
+
+*/

@@ -1,0 +1,76 @@
+
+Pralle Info:
+Space Available: 200
+Building Capacity: 500
+Current Occupancy: 300
+Number of Roommates: 3
+Shared Bathroom: true
+Price: 10000.0
+Number of Laundry: 8
+Shuttle: false
+Gym: false
+Parking: true
+Meal Plan: true
+Location: on-campus
+Housing Type: freshman dorm
+
+Henley Info:
+Space Available: 275
+Building Capacity: 500
+Current Occupancy: 225
+Number of Roommates: 3
+Shared Bathroom: true
+Price: 12000.0
+Number of Laundry: 10
+Shuttle: false
+Gym: true
+Parking: false
+Meal Plan: true
+Location: on-campus
+Housing Type: freshman dorm
+
+Panther Village Info:
+Number of Rooms per apartment: 3
+Space Available: 70
+Building Capacity: 400
+Current Occupancy: 330
+Number of Roommates: 3
+Shared Bathroom: false
+Price: 900.0
+Number of Laundry: 30
+Shuttle: true
+Gym: true
+Parking: true
+Meal Plan: false
+Location: off-campus
+Housing Type: continuing student apartment
+
+Grand Info:
+Space Available: 100
+Building Capacity: 900
+Current Occupancy: 800
+Number of Roommates: 3
+Shared Bathroom: false
+Price: 1000.0
+Number of Laundry: 300
+Shuttle: true
+Gym: true
+Parking: true
+Meal Plan: false
+Location: off-campus
+Housing Type: continuing student apartment
+
+Sandhu Info:
+Space Available: 40
+Building Capacity: 300
+Current Occupancy: 260
+Number of Roommates: 3
+Shared Bathroom: true
+Price: 800.0
+Number of Laundry: 30
+Shuttle: false
+Gym: false
+Parking: true
+Meal Plan: true
+Location: on-campus
+Housing Type: freshman dorm
